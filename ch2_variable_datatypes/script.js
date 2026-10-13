@@ -10,12 +10,13 @@
 // // console.log(FirstName.toUpperCase())
 // console.log(Age.toUpperCase())
 
-// console.log(FirstName, LastName);
-// console.log(FirstName);
-// console.log(FirstName);
-// console.log(FirstName);
-// console.log(FirstName);
-
+// console.log(typeof FirstName);
+// console.log(typeof FirstName);
+// console.log(typeof LastName);
+// console.log(typeof Age)
+// console.log(typeof IsStudent);
+// console.log(typeof Siblings);
+// console.log(typeof townOfBrith);
 
 // var town = "Burco" 
 // town = "Hargeisa"
